@@ -1,0 +1,13 @@
+body{
+    background-color: #ffe1ec;
+}
+.tamanho{
+    position: relative;
+    left: 80px;
+    right: 80px;
+}
+img{
+    width: 1000px;
+    display: block;
+    margin: 50px;
+}
