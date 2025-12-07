@@ -74,8 +74,6 @@ hr{
    overflow-x: auto;
    overscroll-behavior-x: contain;
    scroll-snap-type: x mandatory;
-   scroll-snap-align: center;
-   scroll-padding: 50%;
 }
 .card{
     background: rgb(255, 243, 245);
@@ -83,6 +81,7 @@ hr{
     min-width: 1200px;
     border-radius: 16px;
     overflow: hidden;
-    scroll-behavior: auto;
+    scroll-snap-align: center;
 }
+
 
