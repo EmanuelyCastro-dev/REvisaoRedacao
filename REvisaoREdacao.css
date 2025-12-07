@@ -1,5 +1,7 @@
 body{
     background-color: rgb(255, 243, 245);
+    min-heigth: 100vh;
+    cursor: url(./cursor.png), pointer
 }
 div{
     text-align: center;
@@ -83,6 +85,7 @@ hr{
     overflow: hidden;
     scroll-snap-align: center;
 }
+
 
 
 
