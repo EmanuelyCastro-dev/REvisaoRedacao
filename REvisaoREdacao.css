@@ -80,8 +80,9 @@ hr{
 .card{
     background: rgb(255, 243, 245);
     min-height: 500px;
-    min-width: 1250px;
+    min-width: 1200px;
     border-radius: 16px;
     overflow: hidden;
     scroll-behavior: auto;
 }
+
